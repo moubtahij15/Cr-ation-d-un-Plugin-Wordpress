@@ -10,8 +10,12 @@ Contact Form  peut gérer plusieurs formulaires de contact, et vous pouvez perso
 
 # == installation ==
 1- Téléchargez  le dossier `contacts-form`  et deplacer ce dossier dans le répertoire `/wp-content/plugins/`
-2-. Activez le plugin via le menu 'Plugins' dans WordPress.
+
+2- Activez le plugin via le menu 'Plugins' dans WordPress.
 Vous trouverez le menu 'Contact' dans votre panneau d'administration WordPress.
 
 # == Screenshots ==
-![0P9A2591-removebg-preview](https://user-images.githubusercontent.com/77882695/170387020-d3008d87-533d-4c35-9f6b-809cd5a9a160.png)
+
+![AdminPlugin](https://user-images.githubusercontent.com/77882695/170387216-d8dcbb92-7486-4922-9c0e-fe06e70a7328.png)
+------------------------------------------------------------------------------------------------------------------------
+![userPlugin](https://user-images.githubusercontent.com/77882695/170387240-f90dbbda-2f2e-4cf0-9b9e-7d32a575cde8.png)
